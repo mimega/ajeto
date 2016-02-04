@@ -87,7 +87,7 @@
         "scripts/ubuntu/sudoers.sh",
         "scripts/ubuntu/vagrant.sh",
         "scripts/common/vmtools.sh",
-        "scripts/development/ruby-2.3.0.sh",
+        "scripts/ruby/ruby-2.3.0.sh",
         "scripts/ubuntu/cleanup.sh",
         "scripts/common/minimize.sh"
       ]
